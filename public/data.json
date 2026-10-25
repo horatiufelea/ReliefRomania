@@ -1,0 +1,1642 @@
+{
+ "chapters": [
+  {
+   "id": "munti",
+   "name": "Munți",
+   "color": "#3D6E8C"
+  },
+  {
+   "id": "dealuri",
+   "name": "Dealuri",
+   "color": "#5B7A36"
+  },
+  {
+   "id": "campii",
+   "name": "Câmpii",
+   "color": "#9C7A26"
+  },
+  {
+   "id": "ape",
+   "name": "Ape",
+   "color": "#2F7A80"
+  }
+ ],
+ "pages": [
+  {
+   "id": "p1",
+   "chapter": "munti",
+   "num": 1,
+   "sections": [
+    {
+     "id": "p1s1",
+     "title": "Morfologie glaciară și periglaciară",
+     "sub": "",
+     "color": "#3D7397",
+     "terms": [
+      {
+       "id": "t001",
+       "name": "Căldare",
+       "alias": "Zănoagă",
+       "def": "Depresiune circulară sub creste formată de ghețari alpinieni.",
+       "img": "/img/t001.jpg"
+      },
+      {
+       "id": "t002",
+       "name": "Custură",
+       "alias": "",
+       "def": "Creastă îngustă și stâncoasă ce desparte două căldări glaciare.",
+       "img": "/img/t002.jpg"
+      },
+      {
+       "id": "t003",
+       "name": "Nișă nivală",
+       "alias": "",
+       "def": "Scobitură în stâncă în care zăpada persistă tot timpul anului.",
+       "img": "/img/t003.jpg"
+      },
+      {
+       "id": "t004",
+       "name": "Căpățână de berbec",
+       "alias": "",
+       "def": "Stâncă rotundă netezită de mișcarea ghețarilor.",
+       "img": "/img/t004.jpg"
+      },
+      {
+       "id": "t005",
+       "name": "Grohotiș",
+       "alias": "",
+       "def": "Grămadă de pietre colțuroase prăbușite la baza abruptului.",
+       "img": "/img/t005.jpg"
+      },
+      {
+       "id": "t006",
+       "name": "Con de grohotiș",
+       "alias": "",
+       "def": "Depunere de pietrișuri în formă de evantai la baza văilor.",
+       "img": "/img/t006.jpg"
+      },
+      {
+       "id": "t007",
+       "name": "Lespede",
+       "alias": "",
+       "def": "Placă mare de piatră plană desprinsă din perete.",
+       "img": "/img/t007.jpg"
+      },
+      {
+       "id": "t008",
+       "name": "Surpătură",
+       "alias": "",
+       "def": "Prăbușire masivă de stânci pe versanții abrupți.",
+       "img": "/img/t008.jpg"
+      },
+      {
+       "id": "t009",
+       "name": "Prăbușire",
+       "alias": "",
+       "def": "Cădere violentă de blocuri de piatră pe abrupt.",
+       "img": "/img/t009.jpg"
+      },
+      {
+       "id": "t010",
+       "name": "Amfiteatru rezidual",
+       "alias": "",
+       "def": "Excavare mare rămasă în relief în urma eroziunii.",
+       "img": "/img/t010.jpg"
+      },
+      {
+       "id": "t011",
+       "name": "Șanț torențial",
+       "alias": "",
+       "def": "Canelură adâncă săpată pe versant de apele de ploaie.",
+       "img": "/img/t011.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p1s2",
+     "title": "Creste, abrupturi și reliefe ruiniforme",
+     "sub": "partea I",
+     "color": "#9B6230",
+     "terms": [
+      {
+       "id": "t012",
+       "name": "Strungă",
+       "alias": "",
+       "def": "Înșeuare îngustă și adâncă tăiată într-o creastă stâncoasă.",
+       "img": "/img/t012.jpg"
+      },
+      {
+       "id": "t013",
+       "name": "Brână",
+       "alias": "",
+       "def": "Terasă îngustă și înclinată ce șerpuiește pe peretele stâncos.",
+       "img": "/img/t013.jpg"
+      },
+      {
+       "id": "t014",
+       "name": "Horn",
+       "alias": "",
+       "def": "Canal vertical îngust în stâncă folosit ca cale de escaladă.",
+       "img": "/img/t014.jpg"
+      },
+      {
+       "id": "t015",
+       "name": "Săritoare",
+       "alias": "",
+       "def": "Treaptă verticală în firul unei văi stâncoase sau al unui horn.",
+       "img": "/img/t015.jpg"
+      },
+      {
+       "id": "t016",
+       "name": "Curmătură",
+       "alias": "",
+       "def": "Șa adâncă ce întrerupe brusc o culme muntoasă.",
+       "img": "/img/t016.jpg"
+      },
+      {
+       "id": "t017",
+       "name": "Pripor",
+       "alias": "",
+       "def": "Pantă foarte repezită și greu de urcat pe versant.",
+       "img": "/img/t017.jpg"
+      },
+      {
+       "id": "t018",
+       "name": "Pinten",
+       "alias": "",
+       "def": "Prelungire ascuțită de stâncă ce iese dintr-un masiv.",
+       "img": "/img/t018.jpg"
+      },
+      {
+       "id": "t019",
+       "name": "Turn",
+       "alias": "",
+       "def": "Monolit stâncos înalt și izolat pe creastă sau perete.",
+       "img": "/img/t019.jpg"
+      },
+      {
+       "id": "t020",
+       "name": "Colț",
+       "alias": "",
+       "def": "Vârf ascuțit și colțuros de piatră.",
+       "img": "/img/t020.jpg"
+      },
+      {
+       "id": "t021",
+       "name": "Prispă",
+       "alias": "",
+       "def": "Pridvor îngust de piatră suspendat pe abrupt.",
+       "img": "/img/t021.jpg"
+      },
+      {
+       "id": "t022",
+       "name": "Muchie",
+       "alias": "",
+       "def": "Creastă îngustă ce desparte doi versanți abrupți.",
+       "img": "/img/t022.jpg"
+      },
+      {
+       "id": "t023",
+       "name": "Polgă",
+       "alias": "",
+       "def": "Suprafață plană mică situată la înălțime pe stâncă.",
+       "img": "/img/t023.jpg"
+      },
+      {
+       "id": "t024",
+       "name": "Vâlcel",
+       "alias": "",
+       "def": "Vale îngustă și secată ce coboară din creastă.",
+       "img": "/img/t024.jpg"
+      },
+      {
+       "id": "t025",
+       "name": "Polcă",
+       "alias": "",
+       "def": "Mică platformă suspendată pe abruptul muntos.",
+       "img": "/img/t025.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "chapter": "munti",
+   "num": 2,
+   "sections": [
+    {
+     "id": "p2s1",
+     "title": "Creste și reliefe ruiniforme",
+     "sub": "partea II",
+     "color": "#9B6230",
+     "terms": [
+      {
+       "id": "t026",
+       "name": "Coșcovă",
+       "alias": "",
+       "def": "Stâncă scobită și scorojită de acțiunea intemperiilor.",
+       "img": "/img/t026.jpg"
+      },
+      {
+       "id": "t027",
+       "name": "Creastă",
+       "alias": "",
+       "def": "Culme îngustă, stâncoasă și zimțată la altitudine.",
+       "img": "/img/t027.jpg"
+      },
+      {
+       "id": "t028",
+       "name": "Babă",
+       "alias": "",
+       "def": "Bloc stâncos izolat sculptat de vânt în forme bizare.",
+       "img": "/img/t028.jpg"
+      },
+      {
+       "id": "t029",
+       "name": "Clăiță",
+       "alias": "",
+       "def": "Stâncă izolată în formă de căpiță sau claie de fân.",
+       "img": "/img/t029.jpg"
+      },
+      {
+       "id": "t030",
+       "name": "Poliță",
+       "alias": "",
+       "def": "Treaptă mică sau cornișă stâncoasă suspendată.",
+       "img": "/img/t030.jpg"
+      },
+      {
+       "id": "t031",
+       "name": "Surplombă",
+       "alias": "",
+       "def": "Tavan stâncos suspendat în consolă peste perete.",
+       "img": "/img/t031.jpg"
+      },
+      {
+       "id": "t032",
+       "name": "Perete",
+       "alias": "",
+       "def": "Abrupt stâncos vertical sau aproape vertical.",
+       "img": "/img/t032.jpg"
+      },
+      {
+       "id": "t033",
+       "name": "Muchie zimțată",
+       "alias": "",
+       "def": "Creastă cu mulți dinți stâncoși ascuțiți.",
+       "img": "/img/t033.jpg"
+      },
+      {
+       "id": "t034",
+       "name": "Fisură",
+       "alias": "",
+       "def": "Crăpătură îngustă în masivul de piatră.",
+       "img": "/img/t034.jpg"
+      },
+      {
+       "id": "t035",
+       "name": "Banc stâncos",
+       "alias": "",
+       "def": "Strat gros de rocă dură vizibil pe abrupt.",
+       "img": "/img/t035.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p2s2",
+     "title": "Carst alpin și microrelief speleic",
+     "sub": "",
+     "color": "#3F7A6E",
+     "terms": [
+      {
+       "id": "t036",
+       "name": "Vânătare",
+       "alias": "",
+       "def": "Abrupt calcaros uriaș de culoare cenușiu-albăstruie.",
+       "img": "/img/t036.jpg"
+      },
+      {
+       "id": "t037",
+       "name": "Cerdac",
+       "alias": "",
+       "def": "Arcadă naturală de piatră formată prin prăbușirea unei peșteri.",
+       "img": "/img/t037.jpg"
+      },
+      {
+       "id": "t038",
+       "name": "Zaplaz",
+       "alias": "",
+       "def": "Perete de calcar perforat cu ferestre naturale.",
+       "img": "/img/t038.jpg"
+      },
+      {
+       "id": "t039",
+       "name": "Ciuceavă",
+       "alias": "",
+       "def": "Creastă calcaroasă îngustă, abruptă și golașă.",
+       "img": "/img/t039.jpg"
+      },
+      {
+       "id": "t040",
+       "name": "Sohodol",
+       "alias": "",
+       "def": "Vale carstică secată prin care apa curge doar la viituri.",
+       "img": "/img/t040.jpg"
+      },
+      {
+       "id": "t041",
+       "name": "Aven",
+       "alias": "",
+       "def": "Puț natural vertical adânc săpat în calcar.",
+       "img": "/img/t041.jpg"
+      },
+      {
+       "id": "t042",
+       "name": "Lapiez",
+       "alias": "",
+       "def": "Canelură mică sau șanț săpat de apă în calcar.",
+       "img": "/img/t042.jpg"
+      },
+      {
+       "id": "t043",
+       "name": "Canion",
+       "alias": "",
+       "def": "Vale foarte îngustă cu pereți verticali înalți.",
+       "img": "/img/t043.jpg"
+      },
+      {
+       "id": "t044",
+       "name": "Arcadă",
+       "alias": "",
+       "def": "Pod natural scobit de eroziune în stâncă.",
+       "img": "/img/t044.jpg"
+      },
+      {
+       "id": "t045",
+       "name": "Dolină",
+       "alias": "",
+       "def": "Depresiune circulară în formă de pâlnie în calcar.",
+       "img": "/img/t045.jpg"
+      },
+      {
+       "id": "t046",
+       "name": "Pod natural",
+       "alias": "",
+       "def": "Punte de piatră rămasă nedărâmată peste o vale.",
+       "img": "/img/t046.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p2s3",
+     "title": "Pasaje și depresiuni alpine",
+     "sub": "",
+     "color": "#6C7838",
+     "terms": [
+      {
+       "id": "t047",
+       "name": "Șa",
+       "alias": "",
+       "def": "Înșeuare lăsată pe creastă între două vârfuri.",
+       "img": "/img/t047.jpg"
+      },
+      {
+       "id": "t048",
+       "name": "Tarniță",
+       "alias": "",
+       "def": "Înșeuare adâncă și largă ca o șa de cal.",
+       "img": "/img/t048.jpg"
+      },
+      {
+       "id": "t049",
+       "name": "Padină",
+       "alias": "",
+       "def": "Căldare plată înierbată adăpostită între culmi.",
+       "img": "/img/t049.jpg"
+      },
+      {
+       "id": "t050",
+       "name": "Jgheab",
+       "alias": "",
+       "def": "Canal îngust de scurgere a pietrelor și zăpezii.",
+       "img": "/img/t050.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "chapter": "dealuri",
+   "num": 1,
+   "sections": [
+    {
+     "id": "p3s1",
+     "title": "Înălțimi, culmi și forme pozitive",
+     "sub": "",
+     "color": "#5B7A36",
+     "terms": [
+      {
+       "id": "t051",
+       "name": "Măgură",
+       "alias": "",
+       "def": "Deal izolat conic sau rotunjit ce domină împrejurimile.",
+       "img": "/img/t051.jpg"
+      },
+      {
+       "id": "t052",
+       "name": "Colnic",
+       "alias": "",
+       "def": "Deal mic sau dâmb domol ce mărginește o vale.",
+       "img": "/img/t052.jpg"
+      },
+      {
+       "id": "t053",
+       "name": "Movilă",
+       "alias": "",
+       "def": "Ridicătură mică de pământ naturală sau antropică.",
+       "img": "/img/t053.jpg"
+      },
+      {
+       "id": "t054",
+       "name": "Căpățână",
+       "alias": "",
+       "def": "Vârf rotunjit stâncos sau golaș al unui deal.",
+       "img": "/img/t054.jpg"
+      },
+      {
+       "id": "t055",
+       "name": "Gurgui",
+       "alias": "",
+       "def": "Vârf ascuțit sau pinten stâncos pe culme.",
+       "img": "/img/t055.jpg"
+      },
+      {
+       "id": "t056",
+       "name": "Muchie",
+       "alias": "",
+       "def": "Culme îngustă și ascuțită ce desparte doi versanți.",
+       "img": "/img/t056.jpg"
+      },
+      {
+       "id": "t057",
+       "name": "Pinten",
+       "alias": "",
+       "def": "Prelungire ascuțită a dealului ce pătrunde în vale.",
+       "img": "/img/t057.jpg"
+      },
+      {
+       "id": "t058",
+       "name": "Plai",
+       "alias": "",
+       "def": "Culme sau platou neted înierbat folosit ca pășune.",
+       "img": "/img/t058.jpg"
+      },
+      {
+       "id": "t059",
+       "name": "Curmătură",
+       "alias": "",
+       "def": "Șa joasă ce întrerupe o culme colinară.",
+       "img": "/img/t059.jpg"
+      },
+      {
+       "id": "t060",
+       "name": "Tarniță",
+       "alias": "",
+       "def": "Înșeuare largă pe culmea dealului.",
+       "img": "/img/t060.jpg"
+      },
+      {
+       "id": "t061",
+       "name": "Podmol",
+       "alias": "",
+       "def": "Mal înalt și abrupt format din pământ sau lut.",
+       "img": "/img/t061.jpg"
+      },
+      {
+       "id": "t062",
+       "name": "Grui",
+       "alias": "",
+       "def": "Vârf rotunjit sau culme scurtă de deal.",
+       "img": "/img/t062.jpg"
+      },
+      {
+       "id": "t063",
+       "name": "Cetățuie",
+       "alias": "",
+       "def": "Deal abrupt cu vârf plat ușor de fortificat.",
+       "img": "/img/t063.jpg"
+      },
+      {
+       "id": "t064",
+       "name": "Pisc",
+       "alias": "",
+       "def": "Punctul cel mai înalt al unui deal sau al unei culmi.",
+       "img": "/img/t064.jpg"
+      },
+      {
+       "id": "t065",
+       "name": "Corn",
+       "alias": "",
+       "def": "Promontoriu sau colț ascuțit de deal.",
+       "img": "/img/t065.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p3s2",
+     "title": "Suprafețe plane și terase",
+     "sub": "",
+     "color": "#9C7A26",
+     "terms": [
+      {
+       "id": "t066",
+       "name": "Podiș",
+       "alias": "Pod",
+       "def": "Întindere netedă ridicată deasupra văilor vecine.",
+       "img": "/img/t066.jpg"
+      },
+      {
+       "id": "t067",
+       "name": "Câmp",
+       "alias": "",
+       "def": "Suprafață netedă situată pe un platou colinar.",
+       "img": "/img/t067.jpg"
+      },
+      {
+       "id": "t068",
+       "name": "Terasă",
+       "alias": "Prisacă",
+       "def": "Pridvor natural de pământ de-a lungul văii.",
+       "img": "/img/t068.jpg"
+      },
+      {
+       "id": "t069",
+       "name": "Masa",
+       "alias": "",
+       "def": "Deal scund retezat la vârf având suprafață plană.",
+       "img": "/img/t069.jpg"
+      },
+      {
+       "id": "t070",
+       "name": "Poiană",
+       "alias": "",
+       "def": "Loc deschis și neted în mijlocul pădurii de deal.",
+       "img": "/img/t070.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p3s3",
+     "title": "Pante și versanți",
+     "sub": "partea I",
+     "color": "#A3553A",
+     "terms": [
+      {
+       "id": "t071",
+       "name": "Coastă",
+       "alias": "",
+       "def": "Versantul înclinat al unui deal sau al unei văi.",
+       "img": "/img/t071.jpg"
+      },
+      {
+       "id": "t072",
+       "name": "Povârniș",
+       "alias": "",
+       "def": "Pantă foarte repezită și înclinată.",
+       "img": "/img/t072.jpg"
+      },
+      {
+       "id": "t073",
+       "name": "Râpă",
+       "alias": "",
+       "def": "Mal abrupt rupt și erodat de ape.",
+       "img": "/img/t073.jpg"
+      },
+      {
+       "id": "t074",
+       "name": "Surpătură",
+       "alias": "",
+       "def": "Loc unde pământul s-a rupt și a prăbușit în blocuri.",
+       "img": "/img/t074.jpg"
+      },
+      {
+       "id": "t075",
+       "name": "Prăpăstie",
+       "alias": "Răpaș",
+       "def": "Tăietură verticală adâncă în malul dealului.",
+       "img": "/img/t075.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "chapter": "dealuri",
+   "num": 2,
+   "sections": [
+    {
+     "id": "p4s1",
+     "title": "Pante și versanți",
+     "sub": "partea II",
+     "color": "#A3553A",
+     "terms": [
+      {
+       "id": "t076",
+       "name": "Pripor",
+       "alias": "",
+       "def": "Coastă de deal foarte pieptișă și greu de urcat.",
+       "img": "/img/t076.jpg"
+      },
+      {
+       "id": "t077",
+       "name": "Hărmălaie",
+       "alias": "",
+       "def": "Suprafață prăbușită plină de bolovani și lut.",
+       "img": "/img/t077.jpg"
+      },
+      {
+       "id": "t078",
+       "name": "Ruptură",
+       "alias": "",
+       "def": "Prag vertical creat de alunecările de teren.",
+       "img": "/img/t078.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p4s2",
+     "title": "Relief specific alunecărilor și solului instabil",
+     "sub": "",
+     "color": "#7A5C3A",
+     "terms": [
+      {
+       "id": "t079",
+       "name": "Glimee",
+       "alias": "",
+       "def": "Dâmburi neregulate formate prin alunecări masive de teren.",
+       "img": "/img/t079.jpg"
+      },
+      {
+       "id": "t080",
+       "name": "Glod",
+       "alias": "",
+       "def": "Pământ lutos îmbibat puternic cu apă.",
+       "img": "/img/t080.jpg"
+      },
+      {
+       "id": "t081",
+       "name": "Hojmă",
+       "alias": "",
+       "def": "Val de pământ refrânt pe coastă prin alunecare.",
+       "img": "/img/t081.jpg"
+      },
+      {
+       "id": "t082",
+       "name": "Fugitură",
+       "alias": "",
+       "def": "Alunecare de teren recentă și activă.",
+       "img": "/img/t082.jpg"
+      },
+      {
+       "id": "t083",
+       "name": "Poroină",
+       "alias": "",
+       "def": "Fâșie de teren desprinsă și spălată de ape.",
+       "img": "/img/t083.jpg"
+      },
+      {
+       "id": "t084",
+       "name": "Gorgan",
+       "alias": "",
+       "def": "Movilă mare de pământ izolată pe versant.",
+       "img": "/img/t084.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p4s3",
+     "title": "Văi, scobituri și forme joase",
+     "sub": "",
+     "color": "#3D7397",
+     "terms": [
+      {
+       "id": "t085",
+       "name": "Vâlcea",
+       "alias": "",
+       "def": "Vale îngustă și adâncă fără apă permanentă.",
+       "img": "/img/t085.jpg"
+      },
+      {
+       "id": "t086",
+       "name": "Vlăsia",
+       "alias": "Vale oarbă",
+       "def": "Vale înfundată fără scurgere de suprafață.",
+       "img": "/img/t086.jpg"
+      },
+      {
+       "id": "t087",
+       "name": "Tarniță",
+       "alias": "Înșeuare",
+       "def": "Vale scurtă transversală între două dealuri.",
+       "img": "/img/t087.jpg"
+      },
+      {
+       "id": "t088",
+       "name": "Ruptură de vale",
+       "alias": "",
+       "def": "Prag de stâncă sau pământ în albia văii.",
+       "img": "/img/t088.jpg"
+      },
+      {
+       "id": "t089",
+       "name": "Gârlă",
+       "alias": "",
+       "def": "Braț secundar sau meandru părăsit de apă.",
+       "img": "/img/t089.jpg"
+      },
+      {
+       "id": "t090",
+       "name": "Luncă",
+       "alias": "",
+       "def": "Partea joasă inundabilă de-a lungul apei.",
+       "img": "/img/t090.jpg"
+      },
+      {
+       "id": "t091",
+       "name": "Fundătură",
+       "alias": "",
+       "def": "Capătul superior închis al unei văi colinare.",
+       "img": "/img/t091.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p4s4",
+     "title": "Eroziune torențială și carst colinar",
+     "sub": "",
+     "color": "#3F7A6E",
+     "terms": [
+      {
+       "id": "t092",
+       "name": "Ogaș",
+       "alias": "",
+       "def": "Șanț adânc săpat de ploile torențiale.",
+       "img": "/img/t092.jpg"
+      },
+      {
+       "id": "t093",
+       "name": "Ravenă",
+       "alias": "Gâldău",
+       "def": "Șanț torențial foarte adânc și larg.",
+       "img": "/img/t093.jpg"
+      },
+      {
+       "id": "t094",
+       "name": "Șiroire",
+       "alias": "",
+       "def": "Urmă lăsată de șuvoaiele de apă pe versant.",
+       "img": "/img/t094.jpg"
+      },
+      {
+       "id": "t095",
+       "name": "Soroborț",
+       "alias": "",
+       "def": "Torent violent temporar cauzat de ruperi de nori.",
+       "img": "/img/t095.jpg"
+      },
+      {
+       "id": "t096",
+       "name": "Con de pământ",
+       "alias": "Dejecție",
+       "def": "Depunere de lut și nisip la baza râpei.",
+       "img": "/img/t096.jpg"
+      },
+      {
+       "id": "t097",
+       "name": "Sorb",
+       "alias": "Ponor",
+       "def": "Gaură prin care apa dispare în subteran.",
+       "img": "/img/t097.jpg"
+      },
+      {
+       "id": "t098",
+       "name": "Bâlcă",
+       "alias": "Tău",
+       "def": "Ochi de apă stătătoare pe platou.",
+       "img": "/img/t098.jpg"
+      },
+      {
+       "id": "t099",
+       "name": "Pâlnie",
+       "alias": "Dolină",
+       "def": "Groapă circulară formată în calcar sau ghips.",
+       "img": "/img/t099.jpg"
+      },
+      {
+       "id": "t100",
+       "name": "Sărătură",
+       "alias": "",
+       "def": "Teren dezgolit impregnat cu cruste de sare.",
+       "img": "/img/t100.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "chapter": "campii",
+   "num": 1,
+   "sections": [
+    {
+     "id": "p5s1",
+     "title": "Câmpii, suprafețe tabulare și șesuri",
+     "sub": "",
+     "color": "#9C7A26",
+     "terms": [
+      {
+       "id": "t101",
+       "name": "Câmp",
+       "alias": "",
+       "def": "Întindere vastă și netedă de uscat joasă.",
+       "img": "/img/t101.jpg"
+      },
+      {
+       "id": "t102",
+       "name": "Bărăgan",
+       "alias": "",
+       "def": "Câmpie vastă stepică, uscată și bătută de vânturi.",
+       "img": "/img/t102.jpg"
+      },
+      {
+       "id": "t103",
+       "name": "Șes",
+       "alias": "",
+       "def": "Teren neted, netezit și jos.",
+       "img": "/img/t103.jpg"
+      },
+      {
+       "id": "t104",
+       "name": "Netediș",
+       "alias": "",
+       "def": "Suprafață perfect orizontală fără denivelări.",
+       "img": "/img/t104.jpg"
+      },
+      {
+       "id": "t105",
+       "name": "Plăieț",
+       "alias": "",
+       "def": "Câmpie înaltă ușor vălurită.",
+       "img": "/img/t105.jpg"
+      },
+      {
+       "id": "t106",
+       "name": "Măgură de câmp",
+       "alias": "",
+       "def": "Ridicătură domoală ce sparge monotonia câmpiei.",
+       "img": "/img/t106.jpg"
+      },
+      {
+       "id": "t107",
+       "name": "Movilă",
+       "alias": "",
+       "def": "Dâmb mic natural sau antropic în câmpie.",
+       "img": "/img/t107.jpg"
+      },
+      {
+       "id": "t108",
+       "name": "Popină",
+       "alias": "",
+       "def": "Martor de eroziune izolat în câmpie.",
+       "img": "/img/t108.jpg"
+      },
+      {
+       "id": "t109",
+       "name": "Gorgan",
+       "alias": "",
+       "def": "Movilă funerară veche sau depozit aluvionar.",
+       "img": "/img/t109.jpg"
+      },
+      {
+       "id": "t110",
+       "name": "Prundiș",
+       "alias": "",
+       "def": "Depunere de pietriș fin pe suprafața câmpiei.",
+       "img": "/img/t110.jpg"
+      },
+      {
+       "id": "t111",
+       "name": "Podmol",
+       "alias": "",
+       "def": "Mal scund și lutos de-a lungul apelor.",
+       "img": "/img/t111.jpg"
+      },
+      {
+       "id": "t112",
+       "name": "Cruce de drumuri",
+       "alias": "",
+       "def": "Intersecție deschisă de drumuri în câmpie.",
+       "img": "/img/t112.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p5s2",
+     "title": "Morfologia stepei, tasare în loess și sărături",
+     "sub": "",
+     "color": "#A3553A",
+     "terms": [
+      {
+       "id": "t113",
+       "name": "Padină",
+       "alias": "",
+       "def": "Depresiune circulară sau alungită creată prin tasare în loess.",
+       "img": "/img/t113.jpg"
+      },
+      {
+       "id": "t114",
+       "name": "Crov",
+       "alias": "",
+       "def": "Microdepresiune circulară de tasare în terenul loessoid.",
+       "img": "/img/t114.jpg"
+      },
+      {
+       "id": "t115",
+       "name": "Găvan",
+       "alias": "",
+       "def": "Depresiune mai adâncă acumulatoare de apă de ploaie.",
+       "img": "/img/t115.jpg"
+      },
+      {
+       "id": "t116",
+       "name": "Ceair",
+       "alias": "",
+       "def": "Pășune îngrădită tradițională în stepă.",
+       "img": "/img/t116.jpg"
+      },
+      {
+       "id": "t117",
+       "name": "Sărătură",
+       "alias": "",
+       "def": "Sol crustificat bogat în săruri solubile.",
+       "img": "/img/t117.jpg"
+      },
+      {
+       "id": "t118",
+       "name": "Dârstă",
+       "alias": "",
+       "def": "Loc argilos unde apa baltește un timp îndelungat.",
+       "img": "/img/t118.jpg"
+      },
+      {
+       "id": "t119",
+       "name": "Grind de vânt",
+       "alias": "",
+       "def": "Ridicătură eoliană mică de nisip sau loess.",
+       "img": "/img/t119.jpg"
+      },
+      {
+       "id": "t120",
+       "name": "Dune",
+       "alias": "Nisipuri",
+       "def": "Valuri mobile sau fixate de nisip eolian.",
+       "img": "/img/t120.jpg"
+      },
+      {
+       "id": "t121",
+       "name": "Măldăr",
+       "alias": "",
+       "def": "Grămadă mică de nisip fixat de vegetație.",
+       "img": "/img/t121.jpg"
+      },
+      {
+       "id": "t122",
+       "name": "Vâlcea de stepă",
+       "alias": "",
+       "def": "Vale uscată neevoluată în zona de câmpie.",
+       "img": "/img/t122.jpg"
+      },
+      {
+       "id": "t123",
+       "name": "Valea seacă",
+       "alias": "",
+       "def": "Vale fără scurgere permanentă de apă.",
+       "img": "/img/t123.jpg"
+      },
+      {
+       "id": "t124",
+       "name": "Valea albă",
+       "alias": "",
+       "def": "Vale uscată acoperită cu eflorescențe de sare.",
+       "img": "/img/t124.jpg"
+      },
+      {
+       "id": "t125",
+       "name": "Crăpătură",
+       "alias": "",
+       "def": "Fisură adâncă de uscăciune în solul argilos.",
+       "img": "/img/t125.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "chapter": "campii",
+   "num": 2,
+   "sections": [
+    {
+     "id": "p6s1",
+     "title": "Depresiuni, bazine și locuri adăpostite",
+     "sub": "",
+     "color": "#7A5C3A",
+     "terms": [
+      {
+       "id": "t126",
+       "name": "Căldare",
+       "alias": "",
+       "def": "Depresiune joasă înconjurată de frunți de terasă.",
+       "img": "/img/t126.jpg"
+      },
+      {
+       "id": "t127",
+       "name": "Groapă",
+       "alias": "",
+       "def": "Scobitură adâncă în terenul de șes.",
+       "img": "/img/t127.jpg"
+      },
+      {
+       "id": "t128",
+       "name": "Covată",
+       "alias": "",
+       "def": "Depresiune alungită în formă de covată.",
+       "img": "/img/t128.jpg"
+      },
+      {
+       "id": "t129",
+       "name": "Fundătură",
+       "alias": "",
+       "def": "Loc închis în câmpie fără ieșire ușoară.",
+       "img": "/img/t129.jpg"
+      },
+      {
+       "id": "t130",
+       "name": "Găunoaie",
+       "alias": "",
+       "def": "Scobitură mare naturală în relief.",
+       "img": "/img/t130.jpg"
+      },
+      {
+       "id": "t131",
+       "name": "Văgăună",
+       "alias": "",
+       "def": "Râpă adâncă și adăpostită în malul câmpiei.",
+       "img": "/img/t131.jpg"
+      },
+      {
+       "id": "t132",
+       "name": "Coborâș",
+       "alias": "",
+       "def": "Pantă domoală spre o depresiune de șes.",
+       "img": "/img/t132.jpg"
+      },
+      {
+       "id": "t133",
+       "name": "Față",
+       "alias": "",
+       "def": "Versant sau pantă expusă la soare.",
+       "img": "/img/t133.jpg"
+      },
+      {
+       "id": "t134",
+       "name": "Dos",
+       "alias": "",
+       "def": "Versant umbrit și adăpostit de vânt.",
+       "img": "/img/t134.jpg"
+      },
+      {
+       "id": "t135",
+       "name": "Poală",
+       "alias": "",
+       "def": "Baza joasă a unei ridicături de teren.",
+       "img": "/img/t135.jpg"
+      },
+      {
+       "id": "t136",
+       "name": "Pridvor",
+       "alias": "",
+       "def": "Terasă scundă netedă de șes.",
+       "img": "/img/t136.jpg"
+      },
+      {
+       "id": "t137",
+       "name": "Tarniță de depresiune",
+       "alias": "",
+       "def": "Șa joasă de trecere între două bazine.",
+       "img": "/img/t137.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p6s2",
+     "title": "Albiile râurilor, lunci și relief fluviatil de șes",
+     "sub": "",
+     "color": "#3D7397",
+     "terms": [
+      {
+       "id": "t138",
+       "name": "Luncă",
+       "alias": "",
+       "def": "Teren neted inundabil de-a lungul râului.",
+       "img": "/img/t138.jpg"
+      },
+      {
+       "id": "t139",
+       "name": "Grind",
+       "alias": "",
+       "def": "Ridicătură aluvionară lungă lângă albie.",
+       "img": "/img/t139.jpg"
+      },
+      {
+       "id": "t140",
+       "name": "Ostrov",
+       "alias": "",
+       "def": "Insulă de nisip și mâl în mijlocul râului.",
+       "img": "/img/t140.jpg"
+      },
+      {
+       "id": "t141",
+       "name": "Cot",
+       "alias": "",
+       "def": "Meandru sau cotitură strânsă a râului.",
+       "img": "/img/t141.jpg"
+      },
+      {
+       "id": "t142",
+       "name": "Vad",
+       "alias": "",
+       "def": "Loc puțin adânc unde râul se trece prin apă.",
+       "img": "/img/t142.jpg"
+      },
+      {
+       "id": "t143",
+       "name": "Prund",
+       "alias": "",
+       "def": "Plajă de pietriș și nisip depusă de râu.",
+       "img": "/img/t143.jpg"
+      },
+      {
+       "id": "t144",
+       "name": "Zăvoi",
+       "alias": "",
+       "def": "Pădure scundă de sălcii și plopi în luncă.",
+       "img": "/img/t144.jpg"
+      },
+      {
+       "id": "t145",
+       "name": "Ruptură de mal",
+       "alias": "",
+       "def": "Eroziune verticală în malul luncii.",
+       "img": "/img/t145.jpg"
+      },
+      {
+       "id": "t146",
+       "name": "Poliță",
+       "alias": "",
+       "def": "Terasă fluviatilă îngustă lângă ape.",
+       "img": "/img/t146.jpg"
+      },
+      {
+       "id": "t147",
+       "name": "Gură",
+       "alias": "",
+       "def": "Locul de vărsare al râului într-o altă apă.",
+       "img": "/img/t147.jpg"
+      },
+      {
+       "id": "t148",
+       "name": "Con de pământ",
+       "alias": "",
+       "def": "Depunere aluvionară în formă de evantai.",
+       "img": "/img/t148.jpg"
+      },
+      {
+       "id": "t149",
+       "name": "Banc de nisip",
+       "alias": "",
+       "def": "Ridicătură de nisip subacvatică în albie.",
+       "img": "/img/t149.jpg"
+      },
+      {
+       "id": "t150",
+       "name": "Albie părăsită",
+       "alias": "",
+       "def": "Braț vechi uscat rămas după schimbarea cursului.",
+       "img": "/img/t150.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "chapter": "ape",
+   "num": 1,
+   "sections": [
+    {
+     "id": "p7s1",
+     "title": "Ape curgătoare, albii și cursuri de apă",
+     "sub": "",
+     "color": "#3D7397",
+     "terms": [
+      {
+       "id": "t151",
+       "name": "Gârlă",
+       "alias": "",
+       "def": "Braț secundar sau canal de scurgere al unui râu.",
+       "img": "/img/t151.jpg"
+      },
+      {
+       "id": "t152",
+       "name": "Pârâu",
+       "alias": "",
+       "def": "Curs mic de apă dulce ce curge permanent sau temporar.",
+       "img": "/img/t152.jpg"
+      },
+      {
+       "id": "t153",
+       "name": "Izvor",
+       "alias": "Fântână",
+       "def": "Locul unde apa subterană iese la suprafață.",
+       "img": "/img/t153.jpg"
+      },
+      {
+       "id": "t154",
+       "name": "Viu",
+       "alias": "Apă vie",
+       "def": "Curs de apă curată cu debit permanent și limpede.",
+       "img": "/img/t154.jpg"
+      },
+      {
+       "id": "t155",
+       "name": "Gât",
+       "alias": "",
+       "def": "Strâmtoare îngustă a albiei între două maluri înalte.",
+       "img": "/img/t155.jpg"
+      },
+      {
+       "id": "t156",
+       "name": "Vad",
+       "alias": "",
+       "def": "Loc puțin adânc ce permite traversarea râului.",
+       "img": "/img/t156.jpg"
+      },
+      {
+       "id": "t157",
+       "name": "Cotitură",
+       "alias": "Cot",
+       "def": "Schimbare bruscă de direcție a cursului de apă.",
+       "img": "/img/t157.jpg"
+      },
+      {
+       "id": "t158",
+       "name": "Bulboană",
+       "alias": "Vâltoare",
+       "def": "Ochi adânc de apă cu vârtejuri puternice.",
+       "img": "/img/t158.jpg"
+      },
+      {
+       "id": "t159",
+       "name": "Șuvoi",
+       "alias": "",
+       "def": "Curs rapid și violent de apă format la ploi.",
+       "img": "/img/t159.jpg"
+      },
+      {
+       "id": "t160",
+       "name": "Zăpor",
+       "alias": "",
+       "def": "Zăgaz natural de ghețuri ce blochează râul iarna.",
+       "img": "/img/t160.jpg"
+      },
+      {
+       "id": "t161",
+       "name": "Prund",
+       "alias": "",
+       "def": "Depunere de pietriș și nisip pe malul râului.",
+       "img": "/img/t161.jpg"
+      },
+      {
+       "id": "t162",
+       "name": "Ostrov",
+       "alias": "",
+       "def": "Insulă stabilă acoperită cu vegetație în mijlocul apei.",
+       "img": "/img/t162.jpg"
+      },
+      {
+       "id": "t163",
+       "name": "Ruptură de mal",
+       "alias": "",
+       "def": "Mal vertical prăbușit prin eroziunea valurilor sau curentului.",
+       "img": "/img/t163.jpg"
+      },
+      {
+       "id": "t164",
+       "name": "Gură",
+       "alias": "",
+       "def": "Punctul de vărsare al unui râu în lac sau fluviu.",
+       "img": "/img/t164.jpg"
+      },
+      {
+       "id": "t165",
+       "name": "Albie oarbă",
+       "alias": "",
+       "def": "Curs uscat de apă care dispare în nisipuri.",
+       "img": "/img/t165.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p7s2",
+     "title": "Lacuri naturale, tăuri și ape adânci",
+     "sub": "",
+     "color": "#3F7A6E",
+     "terms": [
+      {
+       "id": "t166",
+       "name": "Tău",
+       "alias": "",
+       "def": "Lac mic de munte sau depresiune cu apă stătătoare.",
+       "img": "/img/t166.jpg"
+      },
+      {
+       "id": "t167",
+       "name": "Iezer",
+       "alias": "",
+       "def": "Lac glaciar adânc cu apă foarte limpede și rece.",
+       "img": "/img/t167.jpg"
+      },
+      {
+       "id": "t168",
+       "name": "Ghiol",
+       "alias": "",
+       "def": "Lac mare și adânc de apă dulce sau marină.",
+       "img": "/img/t168.jpg"
+      },
+      {
+       "id": "t169",
+       "name": "Liman",
+       "alias": "",
+       "def": "Lac de vărsare barat de un cordon litoral de nisip.",
+       "img": "/img/t169.jpg"
+      },
+      {
+       "id": "t170",
+       "name": "Lohan",
+       "alias": "",
+       "def": "Lac mic izolat între dealuri sau în luncă.",
+       "img": "/img/t170.jpg"
+      },
+      {
+       "id": "t171",
+       "name": "Lac fără fund",
+       "alias": "",
+       "def": "Ochi adânc de apă ce pare de nemăsurat.",
+       "img": "/img/t171.jpg"
+      },
+      {
+       "id": "t172",
+       "name": "Ochi de mare",
+       "alias": "",
+       "def": "Lac adânc circular de munte cu apă albastră.",
+       "img": "/img/t172.jpg"
+      },
+      {
+       "id": "t173",
+       "name": "Scăldătoare",
+       "alias": "",
+       "def": "Bazin natural scund folosit de animale.",
+       "img": "/img/t173.jpg"
+      },
+      {
+       "id": "t174",
+       "name": "Tinoavă",
+       "alias": "",
+       "def": "Mlaștină turboasă acidă din zona montană.",
+       "img": "/img/t174.jpg"
+      },
+      {
+       "id": "t175",
+       "name": "Baltă",
+       "alias": "",
+       "def": "Întindere mică de apă stătătoare puțin adâncă.",
+       "img": "/img/t175.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "chapter": "ape",
+   "num": 2,
+   "sections": [
+    {
+     "id": "p8s1",
+     "title": "Bălți, zone mlăștinoase și ape temporare",
+     "sub": "",
+     "color": "#6C7838",
+     "terms": [
+      {
+       "id": "t176",
+       "name": "Japșă",
+       "alias": "",
+       "def": "Baltă mică temporară rămasă în luncă după viitură.",
+       "img": "/img/t176.jpg"
+      },
+      {
+       "id": "t177",
+       "name": "Belciug",
+       "alias": "",
+       "def": "Meandru părăsit în formă de laț transformat în lac.",
+       "img": "/img/t177.jpg"
+      },
+      {
+       "id": "t178",
+       "name": "Bâlcă",
+       "alias": "",
+       "def": "Ochi mic de apă stătătoare înconjurat de stuf.",
+       "img": "/img/t178.jpg"
+      },
+      {
+       "id": "t179",
+       "name": "Mlaștină",
+       "alias": "",
+       "def": "Teren îmbibat permanent cu apă și vegetație palustră.",
+       "img": "/img/t179.jpg"
+      },
+      {
+       "id": "t180",
+       "name": "Smârc",
+       "alias": "",
+       "def": "Mlaștină adâncă și noroioasă periculoasă.",
+       "img": "/img/t180.jpg"
+      },
+      {
+       "id": "t181",
+       "name": "Mocirlă",
+       "alias": "",
+       "def": "Pământ îmbibat cu apă și mâl gros neconsolidat.",
+       "img": "/img/t181.jpg"
+      },
+      {
+       "id": "t182",
+       "name": "Buhai",
+       "alias": "",
+       "def": "Mlaștină instabilă care tremură la călcare.",
+       "img": "/img/t182.jpg"
+      },
+      {
+       "id": "t183",
+       "name": "Ochi de baltă",
+       "alias": "",
+       "def": "Ochi limpede de apă neacoperit de stufăriș.",
+       "img": "/img/t183.jpg"
+      },
+      {
+       "id": "t184",
+       "name": "Răzoare",
+       "alias": "",
+       "def": "Fâșie îngustă de uscat ce desparte două bălți.",
+       "img": "/img/t184.jpg"
+      },
+      {
+       "id": "t185",
+       "name": "Trestiel",
+       "alias": "",
+       "def": "Zonă de baltă acoperită compact cu stuf și trestie.",
+       "img": "/img/t185.jpg"
+      },
+      {
+       "id": "t186",
+       "name": "Căldărușă de baltă",
+       "alias": "",
+       "def": "Depresiune joasă în baltă umplută permanent cu apă.",
+       "img": "/img/t186.jpg"
+      }
+     ]
+    },
+    {
+     "id": "p8s2",
+     "title": "Morfologia Deltei și a ținuturilor acvatice de vărsare",
+     "sub": "",
+     "color": "#3D7397",
+     "terms": [
+      {
+       "id": "t187",
+       "name": "Plaur",
+       "alias": "",
+       "def": "Insulă plutitoare din rădăcini de stuf și humus.",
+       "img": "/img/t187.jpg"
+      },
+      {
+       "id": "t188",
+       "name": "Grind",
+       "alias": "",
+       "def": "Ridicătură de uscat alungită în Delta Dunării.",
+       "img": "/img/t188.jpg"
+      },
+      {
+       "id": "t189",
+       "name": "Gârliță",
+       "alias": "",
+       "def": "Canal îngust ce leagă două ghioluri sau brațe.",
+       "img": "/img/t189.jpg"
+      },
+      {
+       "id": "t190",
+       "name": "Bifurcație",
+       "alias": "",
+       "def": "Ramificarea unui braț fluviatil în două cursuri.",
+       "img": "/img/t190.jpg"
+      },
+      {
+       "id": "t191",
+       "name": "Zaton",
+       "alias": "",
+       "def": "Golf marin barat parțial de un cordon litoral.",
+       "img": "/img/t191.jpg"
+      },
+      {
+       "id": "t192",
+       "name": "Bară",
+       "alias": "",
+       "def": "Banc de nisip depus la vărsarea fluviului în mare.",
+       "img": "/img/t192.jpg"
+      },
+      {
+       "id": "t193",
+       "name": "Periboșină",
+       "alias": "",
+       "def": "Spărtură în cordonul litoral prin care intră marea.",
+       "img": "/img/t193.jpg"
+      },
+      {
+       "id": "t194",
+       "name": "Șanț viu",
+       "alias": "",
+       "def": "Canal cu apă curgătoare ce taie stufărișul.",
+       "img": "/img/t194.jpg"
+      },
+      {
+       "id": "t195",
+       "name": "Cotun",
+       "alias": "",
+       "def": "Popină mică de stâncă sau nisip răsărită în deltă.",
+       "img": "/img/t195.jpg"
+      },
+      {
+       "id": "t196",
+       "name": "Potâng",
+       "alias": "",
+       "def": "Canal înfundat scurt folosit pentru pescuit.",
+       "img": "/img/t196.jpg"
+      },
+      {
+       "id": "t197",
+       "name": "Pripor de stuf",
+       "alias": "",
+       "def": "Perete des și înalt de stuf pe marginea canalului.",
+       "img": "/img/t197.jpg"
+      },
+      {
+       "id": "t198",
+       "name": "Cordon de nisip",
+       "alias": "",
+       "def": "Fâșie îngustă de nisip ce separă limanul de mare.",
+       "img": "/img/t198.jpg"
+      },
+      {
+       "id": "t199",
+       "name": "Banc de aluviuni",
+       "alias": "",
+       "def": "Depunere nouă de mâl și nisip adusă de ape.",
+       "img": "/img/t199.jpg"
+      },
+      {
+       "id": "t200",
+       "name": "Fund de baltă",
+       "alias": "",
+       "def": "Cuva adâncă și mâloasă a unui lac deltaic.",
+       "img": "/img/t200.jpg"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
